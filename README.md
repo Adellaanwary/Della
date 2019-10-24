@@ -1,2 +1,2 @@
 # Della
-Major Management Information System at ISTTS from 2018
+My Major is Management Information System at ISTTS from 2018
